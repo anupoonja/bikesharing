@@ -34,44 +34,98 @@ This shows that the MALE riders drive the overall count. The FEMALE graph also s
 
 ![Bike Trips for each hour by day](Addn_Resources/3_Hour_Viz.png)
 
+* The most trips are taken on Thursday.
+* During the weekdays, the most trips are taken around 8am in the morning and between 5-6pm in the evening.
+* The least number of biketrips are taken on Wednesday.
+* Weekends trips are spread out between 10am to 6pm.
+
 [Link to Bike Trips for each hour by day](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikeshare-WeekdayTripsbyperhour/TripsbyWeekdayperHour)
 
 ### 4) Bike Trips by Gender for each hour of each day of the week:
-✓A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender. 
+*  This heatmap shows the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender. 
 
 ![Bike Trips by Gender](Addn_Resources/4_Gender_Viz_Weekday_Hour.png)
+
+* Most number of trips are by MALE.
+* The most trips are taken on Thursday.
+* During the weekdays, the most trips are taken around 8am in the morning and between 5-6pm in the evening.
+* The least number of biketrips are taken on Wednesday.
+* Weekends trips are spread out between 10am to 6pm.
 
 [Link to Bike Trips by Gender by hour by day ](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikeshare-Tripsbygenderperhour/TripsbyGenderWeekdayperHour)
 
 ### 5) Bike Trips by User Type by Gender by weekday:
-✓A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user AND gender.
+* This heatmap shows the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user AND gender.
 
 ![Bike Trips by User Type](Addn_Resources/5_User_Gender_Weekday_Viz.png)
 
+* Subribers make most trips than the customers.
+* Most number of trips are by MALE.
+* The most trips are taken on Thursday.
+* During the weekdays, the most trips are taken around 8am in the morning and between 5-6pm in the evening.
+* The least number of biketrips are taken on Wednesday.
+* Weekends trips are spread out between 10am to 6pm.
+
 [Link to Bike Trips by User Type by Gender by weekday](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikeshare-Heatmapforeachtypebygenderbyday/UserTripsbyGenderbyWeekday)
 
-### 6) 
+### 6) Peak Hours:
+* This bar chart shows the number of trips by the hour of starttime.
 
 ![Peak Hours](Addn_Resources/6_Peak_Hour.png)
 
+* The Starttime peaks at 8am in the morning and between 5-6pm in the evening.
+* Over 200K bikes are checked out during peak hours in the evening.
+* Most vehicles are checked out in the evening times between 4-7 pm.
+
 [Link to Peak Hour Bar Chart](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikesharingChallenge/NYCCitiBikishare)
 
-### 7)
+### 7) Top Start location
+* This map shows the density of Start Location of the bike rides.
 
 ![Start Location](Addn_Resources/7_Top_Start_Location.png)
+
+* Maximum bikes have Start Location near Manhattan area.
+* The density of number of bikes checked out around that area is above 10K bikes.
+
+[Link to Starting and Ending Location](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikesharingChallenge/NYCCitiBikishare)
+
+
+### 8) Top End location
+* This map shows the density of End Location of the bike rides.
+
+![End Location](Addn_Resources/7_Top_End_Location.png)
+
+* Maximum bikes have End Location near Manhattan area.
+* The density of number of bikes turned in around that area is above 10K bikes.
 
 [Link to Starting and Ending Location](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikesharingChallenge/NYCCitiBikishare)
 
 ## Summary:
-This analysis included:
+
+Here is the NYC Citi Bike Sharing Stroy:
 
 [link to dashboard](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikesharingChallenge/NYCCitiBikishare)
 
+* Having a Bikeshare program in the New York city is very profitable and convinient.
+* During peak hours over 200K bikes are checked out.
+* The traffic is decent throughout the weekday and peaks at 8am and between 4-6pm.
+* The weekend usage of the bikehare is pretty good and busy the whole day.
+
+Two additional visualizations can be shown :
 
 [Additional Visualization](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikeshare-Additionalvisualizations/Recommendation)
 
+![Number of Trips by birth by gender](Addn_Resources/9_NumberOfTripByBirthByGender.png)
 
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+* This visualization shows the Number of trips are highest by riders born in 1990.
+* MALE riders checkout counts are higher than FEMALE, however the graphs are in line.
+* Both MALE and FEMALE riders born around 1990 use the bikeshare the most.
+* The graph shows a spike for riders born in the year 1969 and UNKNOWN gender, which looks to be skewed data.
+
+![Density of bikes based on Start Station Name](Addn_Resources/10_NumberOfBikesPerStartStation.png)
+
+* This visualization is helpful in knowing the density of bikes checked out by Station Name.
+* Pershing Square North has most density of >16K bikes. This station is near the Grand Central Terminal.
+* The Station at E 17th Street and Broadway has the density of >14K bikes.
 
 
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
