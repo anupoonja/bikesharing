@@ -58,7 +58,7 @@ This shows that the MALE riders drive the overall count. The FEMALE graph also s
 
 ### 7)
 
-![Start Location)(Addn_Resources/7_Top_Start_Location.png)
+![Start Location](Addn_Resources/7_Top_Start_Location.png)
 
 [Link to Starting and Ending Location](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikesharingChallenge/NYCCitiBikishare)
 
