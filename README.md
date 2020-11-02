@@ -4,7 +4,11 @@
 
 The purpose of this analysis is:
 * To create a visualization story to convince investors about the bike-sharing program in Des Moines
-* To create visualization sheets, workbooks and story from the available data source. 
+* To create visualization sheet to show checkout times for Users.
+* To create visualization sheet to show checkout times by Gender.
+* To create visualization sheet to show trips by weekday for each hour.
+* To create visualization sheet to show trips by Gender by weekday per hour.
+* To create visualization sheet to show trips by User types by Gender by weekday.
 
 ## Results
 
