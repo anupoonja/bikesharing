@@ -93,7 +93,7 @@ This shows that the MALE riders drive the overall count. The FEMALE graph also s
 ### 8) Top End location
 * This map shows the density of End Location of the bike rides.
 
-![End Location](Addn_Resources/7_Top_End_Location.png)
+![End Location](Addn_Resources/8_Top_End_Location.png)
 
 * Maximum bikes have End Location near Manhattan area.
 * The density of number of bikes turned in around that area is above 10K bikes.
@@ -104,7 +104,7 @@ This shows that the MALE riders drive the overall count. The FEMALE graph also s
 
 Here is the NYC Citi Bike Sharing Stroy:
 
-[link to dashboard](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikesharingChallenge/NYCCitiBikishare)
+[Link to Additional Visualization](https://public.tableau.com/profile/anusuya.poonja#!/vizhome/NYCCitiBikesharingChallenge/NYCCitiBikishare)
 
 * Having a Bikeshare program in the New York city is very profitable and convinient.
 * During peak hours over 200K bikes are checked out.
